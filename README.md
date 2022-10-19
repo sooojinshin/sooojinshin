@@ -1,10 +1,5 @@
 # 😉 sooojinshin
 Hi, there !!!! 
-I'm software developer. 
-
-**You want to know about me?**
-
-Click [this!]
 
 ## 📚 Tech
 <p align="center">
