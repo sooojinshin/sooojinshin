@@ -1,6 +1,8 @@
 # 😉 sooojinshin
 Hi, there !!!! 
 
+**You want to know about me?**
+
 ## 📚 Tech
 <p align="center">
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/></a> &nbsp
