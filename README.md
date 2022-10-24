@@ -12,7 +12,7 @@ Hi, there !!!!
 <img src="https://img.shields.io/badge/css3-1572B6?style==flat-square&logo=css3&logoColor=white"> &nbsp
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style==flat-square&logo=javascript&logoColor=white"> &nbsp
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"></a> &nbsp
 <img src="https://img.shields.io/badge/MyBatis-E34F26?style=flat-square&logo=MyBatis&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Nodejs-339933?style=flat-square&logo=Nodejs&logoColor=white"/> &nbsp
