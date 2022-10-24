@@ -7,7 +7,7 @@ Hi, there !!!!
 ## 📚 Tech
 <p align="center">
 <img src ="https://img.shields.io/badge/java-007396.svg?&style=flat-square&logo=java&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/oracle-#F80000?style=for-the-badge&logo=oracle&logoColor=white">
+<img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> &nbsp
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp
