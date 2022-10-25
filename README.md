@@ -6,7 +6,7 @@ Hi, there !!!!
 
 ## 📚 Tech
 <p align="center">
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/> &nbsp
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/oracle-F80000?style==flat-square&logo=oracle&logoColor=white"> &nbsp
 <img src="https://img.shields.io/badge/html5-E34F26?style==flat-squaree&logo=html5&logoColor=white"> &nbsp
 <img src="https://img.shields.io/badge/css3-1572B6?style==flat-square&logo=css3&logoColor=white"> &nbsp
