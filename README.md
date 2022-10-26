@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=sooojinshin&fontSize=80)<br>
+<!--![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=sooojinshin&fontSize=80)<br>-->
 # 😉 sooojinshin
 Hi, there !!!! 
 
