@@ -2,7 +2,7 @@
 # 😉 sooojinshin
 Hi, there !!!! 
 
-**Do you want to know about me?**
+**You want to know about me?**
 
 ## 📚 Tech
 <p align="center">
